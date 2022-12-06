@@ -5,8 +5,10 @@ This repo will only contain the solution files, they are not executable by thems
 
 
 ## [2022](/Year2022)
-[[ 1]](/Year2022/Day1.cs)
-[[ 2]](/Year2022/Day2.cs)
-[[ 3]](/Year2022/Day3.cs)
-[[ 4]](/Year2022/Day4.cs)
-[[ 5]](/Year2022/Day5.cs)
+[01](/Year2022/Day1.cs)
+[02](/Year2022/Day2.cs)
+[03](/Year2022/Day3.cs)
+[04](/Year2022/Day4.cs)
+[05](/Year2022/Day5.cs)
+<br>
+[06](/Year2022/Day6.cs)
