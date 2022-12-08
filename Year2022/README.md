@@ -12,3 +12,4 @@ This repo will only contain the solution files, they are not executable by thems
 [05](/Year2022/Day5.cs)
 <br>
 [06](/Year2022/Day6.cs)
+[07](/Year2022/Day7.cs)
